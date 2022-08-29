@@ -11,7 +11,10 @@
 <br/>
 <div align="center">
 <kbd>
-<img src="./ipAddress.png">
+<img src="./ipAddressOne.png">
+</kbd>
+<kbd>
+<img src="./ipAddressTwo.png">
 </kbd>
 </div>
 
